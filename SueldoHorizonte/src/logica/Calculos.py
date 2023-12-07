@@ -32,7 +32,7 @@ def calcular_sueldo_a_pagar(sueldoBasico, bonificaciones, descuentos):
     sueldoNeto = sueldoBasico + bonificaciones - descuentos
 
     return sueldoNeto
-gi
+    
 def imprimir_boleta_pago(nombreTrabajador, sueldoNeto):
     # Nombre del archivo
     nombre_archivo = f"boleta_pago_{nombreTrabajador.replace(' ', '_')}.txt"
