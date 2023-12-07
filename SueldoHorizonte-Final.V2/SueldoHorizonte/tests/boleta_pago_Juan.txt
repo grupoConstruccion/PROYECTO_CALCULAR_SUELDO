@@ -1,3 +1,0 @@
-Sueldo Horizonte
-Nombre del trabajador: Juan
-Sueldo a pagar: 2850.0
